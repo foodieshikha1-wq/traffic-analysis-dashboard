@@ -18,7 +18,7 @@ Analyzed traffic trends across time and locations
 Identified peak congestion hours and high-traffic zones
 
 📊 Dashboard Preview  
-![TRAFFIC MANAGEMENT](TRAFFIC MANAGEMENT.png)📈 
+![Dashboard](dashboard.png)
 
 Key Insights
 Certain locations experience significantly higher traffic volume
