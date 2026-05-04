@@ -19,6 +19,7 @@ Identified peak congestion hours and high-traffic zones
 
 📊 Dashboard Preview  
 ![Dashboard](dashboard.png)
+![Dashboard](dashboard2.PNG)
 
 Key Insights
 Certain locations experience significantly higher traffic volume
