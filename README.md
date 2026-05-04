@@ -16,13 +16,11 @@ Cleaned and structured traffic dataset
 Built interactive dashboard using Power BI
 Analyzed traffic trends across time and locations
 Identified peak congestion hours and high-traffic zones
-📊 Dashboard Preview
 
+📊 Dashboard Preview  
+![Dashboard](dashboard.png)📈 
 
-
-(Add screenshot here after uploading)
-
-📈 Key Insights
+Key Insights
 Certain locations experience significantly higher traffic volume
 Peak congestion occurs during specific time intervals
 Traffic patterns vary across different zones
